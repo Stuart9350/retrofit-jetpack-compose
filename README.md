@@ -1,5 +1,10 @@
 # retrofit-jetpack-compose
 
+#About
+A repository for demonstrating the process of fetching of data from an API serve to an Android Project
+
+#latest-updates
+
 1. change plugin
 
 ```
