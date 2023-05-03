@@ -40,9 +40,11 @@ dependencies{
 ```
 
 1. build.gradle(Module : app)
+```
 defaultConfig {
     compileSdkPreview = "UpsideDownCake"
 }
+```
 
 1. add this part of code in gradle.properties
 
